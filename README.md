@@ -1,2 +1,2 @@
 # Snake
- Game Snake developed using HTML5  - Javascript
+ Game Snake developed using HTML, CSS and Javascript
